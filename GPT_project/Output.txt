@@ -1,0 +1,5 @@
+[
+    "Paul D. Arendt, Daniel W. Apley, and Wei Chen. Quantification of Model Uncertainty: Calibration, Model Discrepancy, and Identifiability. Journal of Mechanical Design, 134 (10), 09 2012.",
+     "Prasanna V Balachandran, Dezhen Xue, James Theiler, John Hogden, and Turab Lookman. Adaptive strategies for materials design using uncertainties. Scientific reports, 6(1):1{9, 2016.",
+    "Matthias Bauer, Mark van der Wilk, and Carl Edward Rasmussen. Understanding probabilistic sparse Gaussian process approximations. Advances in neural information processing systems, 29, 2016."
+]
